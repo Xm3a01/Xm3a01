@@ -7,8 +7,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Mahgoub sons group
 - 🌱 I’m currently learning Java Spring Boot
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about PHP , Laravel , Vue and Tailwindcss
-- 📫 How to reach me: ...
+- 📫 How to reach me: 0918338509
 
