@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Mahgoub sons group
-- 🌱 I’m currently learning Java Spring Boot
+- 🌱 I’m currently learning Dot net core , Sharepoint
 - 💬 Ask me about PHP , Laravel , Vue and Tailwindcss
 - 🔖 My side  [mohamed](https://m3awork.sd)
 - 📫 How to reach me: [@mohamedamin](https://twitter.com/xm3a01)
