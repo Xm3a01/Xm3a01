@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Cipherbizz
 - 🌱 I’m currently learning Dot net core , Sharepoint
-- 💬 Ask me about PHP , Laravel , Vue js , React js and Tailwindcss
+- 💬 Ask me about PHP , Laravel , Node, Vue js , React js and Tailwindcss
 - 🔖 My side  [mohamed](https://m3awork.sd)
 - 📫 How to reach me: [@mohamedamin](https://twitter.com/xm3a01)
 
